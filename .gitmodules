@@ -1,0 +1,3 @@
+[submodule "gitTestSubmodule1"]
+	path = gitTestSubmodule1
+	url = https://github.com/falconray0704/gitTestSubmodule1.git
