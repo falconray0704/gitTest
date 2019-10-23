@@ -1,6 +1,8 @@
 [submodule "gitTestSubmodule1"]
 	path = gitTestSubmodule1
 	url = https://github.com/falconray0704/gitTestSubmodule1.git
+	branch = stable
 [submodule "gitTestSubmodule2"]
 	path = gitTestSubmodule2
 	url = https://github.com/falconray0704/gitTestSubmodule2.git
+	branch = stable
